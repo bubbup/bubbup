@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm NOOR ALZOGHBY</h1>
 <h3 align="center">A passionate AI developer from Egypt</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bubbup" alt="bubbup" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://www.kaggle.com/nooralzoghby](https://www.kaggle.com/nooralzoghby)
 
