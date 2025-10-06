@@ -1,7 +1,4 @@
-<h1 align="center">Hi, I'm Noor ALzoghby :> !!</h1>
-<h3 align="center">A passionate AI developer from Egypt</h3>
-
-- 📫 How to reach me **nouraldawaa2004@gmail.com**
+<h1 align="center">Hi, I'm Noor :> !!</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
