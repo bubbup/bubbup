@@ -1,4 +1,86 @@
-Hi, I'm Noor. I'm A Data Scientist and AI engineer. [View resume](https://drive.google.com/file/d/1WWP09DZnMF-RebiWxQ9QpZbC5RMY10M9/view?usp=drive_link).
+# Hi, I'm Noor Alzoghby 
+
+**Data Science | Embedded & Edge AI | MLOps & Cloud Infrastructure | Computer Vision & NLP | Real-Time Speech AI**  
+[View resume](https://drive.google.com/file/d/1WWP09DZnMF-RebiWxQ9QpZbC5RMY10M9/view?usp=drive_link).
+---
+
+###  About Me  
+🎓 BSc. Information Technology & Computer Science, Nile University, Egypt  
+-  Focus on Artificial Intelligence 
+-  Email: [nour.alzoghbyy@gmail.com](mailto:nour.alzoghbyy@gmail.com) 
+
+---
+
+### ⚙️ Skills & Tools  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/>
+###  Languages & Core Engineering
+<img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white"/>
+
+###  Deep Learning, Computer Vision & Speech
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
+
+###  Systems, Edge & MLOps Infrastructure
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+
+###  Databases & Storage
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
+</p>
+
+<p align="center">
+###  Embedded & Edge AI
+<img src="https://img.shields.io/badge/C%2B%2B-Embedded_Inference-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-Edge_Sensors_&_Devices-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/TinyML-IoT_Distress_Monitoring-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/Quantization-Model_Optimization-orange?style=flat-square"/>
+
+###  Real-Time Speech & Agentic AI
+<img src="https://img.shields.io/badge/LiveKit-Sub--900ms_Voice_Agent-0052CC?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-Multi--Agent_Systems-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-RAG_&_Vector_Search-FF6F61?style=flat-square"/>
+<img src="https://img.shields.io/badge/WhisperX-Dialectal_ASR-teal?style=flat-square"/>
+
+###  Computer Vision, Signals & HealthTech
+<img src="https://img.shields.io/badge/PyTorch-Boundary--Aware_Transformers-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ECG/EKG-Chaotic_Time_Series-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/OCR-Bilingual_Prescription_JSON-green?style=flat-square"/>
+<img src="https://img.shields.io/badge/SR--GAN-Super_Resolution-purple?style=flat-square"/>
+
+### ⚙️ MLOps & Spatial Computing
+<img src="https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-Model_Lifecycle-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Unity3D-Assistive_Wellness_VR-000000?style=flat-square&logo=unity&logoColor=white"/>
+</p>
+
+---
+
+### Connect  
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/noor-alzoghby-ba4568300/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+ <a href="https://www.kaggle.com/nooralzoghby" target="_blank">
+   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40"/>
+ </a>
+</p> 
 
 
 
