@@ -1,4 +1,4 @@
-# Hi, I'm Noor Alzoghby 
+# Hi! I'm Noor Alzoghby :)
 
 **Data Science | Embedded & Edge AI | MLOps & Cloud Infrastructure | Computer Vision & NLP | Real-Time Speech AI**  
 [View resume](https://drive.google.com/file/d/1WWP09DZnMF-RebiWxQ9QpZbC5RMY10M9/view?usp=drive_link).
@@ -39,7 +39,10 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
 </p>
 
+
+
 <p align="center">
+  
 ###  Embedded & Edge AI
 <img src="https://img.shields.io/badge/C%2B%2B-Embedded_Inference-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Linux-Edge_Sensors_&_Devices-FCC624?style=flat-square&logo=linux&logoColor=black"/>
@@ -66,7 +69,17 @@
 
 ---
 
-### Connect  
+
+
+|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bubbup&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bubbup&theme=dracula)|
+|-----|------|
+
+ 
+Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
+---
+
+### Connect with me!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/noor-alzoghby-ba4568300/">
@@ -77,16 +90,6 @@
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="40"/>
  </a>
 </p> 
-
-
-
-|![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bubbup&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bubbup&theme=dracula)|
-|-----|------|
-
- 
-Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
-
-
 
 <!--
 **mithi/mithi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
