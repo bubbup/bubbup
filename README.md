@@ -39,7 +39,9 @@
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white"/>
 </p>
 
+---
 
+<img src="https://readme-typing-svg.demolab.com?font=Fredoka&size=32&pause=1000&color=FFFD74&center=false&vCenter=true&width=400&lines=My+Projects+Overview+%3A" alt="My Projects Overview" />
 
 <p align="center">
   
