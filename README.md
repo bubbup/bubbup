@@ -74,7 +74,7 @@
   </a>
   &nbsp;&nbsp;
  <a href="https://www.kaggle.com/nooralzoghby" target="_blank">
-   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="40"/>
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" height="40"/>
  </a>
 </p> 
 
